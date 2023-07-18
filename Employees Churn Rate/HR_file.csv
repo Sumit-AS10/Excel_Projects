@@ -1,0 +1,58 @@
+﻿Departments,Sum of left,Number of employees,Churns,
+hr,215,739,29%,
+accounting,204,767,27%,
+technical,697,2720,26%,
+support,555,2229,25%,
+sales,1014,4140,24%,
+marketing,203,858,24%,
+IT,273,1227,22%,
+product_mng,198,902,22%,
+RandD,121,787,15%,
+management,91,630,14%,
+Grand Total,3571,14999,24%,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Departments,low,medium,high,Churns
+hr,45%,49%,6%,29%
+accounting,47%,44%,10%,27%
+technical,50%,42%,7%,26%
+support,51%,42%,6%,25%
+sales,51%,43%,6%,24%
+marketing,47%,44%,9%,24%
+IT,50%,44%,7%,22%
+product_mng,50%,42%,8%,22%
+RandD,46%,47%,6%,15%
+management,29%,36%,36%,14%
+Grand Total,49%,43%,8%,24%
+,,,,
+Departments,Count of Departments,,,
+accounting,767,,,
+hr,739,,,
+IT,1227,,,
+management,630,,,
+marketing,858,,,
+product_mng,902,,,
+RandD,787,,,
+sales,4140,,,
+support,2229,,,
+technical,2720,,,
+Grand Total,14999,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Departments,Sum of Outliers Hour,Outlier Hours,Count of Departments,
+management,47,7%,630,
+RandD,61,8%,787,
+marketing,72,8%,858,
+support,202,9%,2229,
+product_mng,84,9%,902,
+hr,69,9%,739,
+IT,123,10%,1227,
+accounting,78,10%,767,
+sales,427,10%,4140,
+technical,288,11%,2720,
